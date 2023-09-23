@@ -28,6 +28,12 @@ Seems like a mental burden that could build up in a large body of code. We shall
 ### 0 is not equal to 0.0
 "0 = 0.0 - This example will fail because 0 is of type int, while 0.0 is of type float, and int and float do not share a subtyping relationship."
 
+### Learning Starting Point
+I have started by slogging through each section of the official Verse Language Reference
+- https://dev.epicgames.com/documentation/en-us/uefn/verse-language-reference
+- Of course I am not going to memorize the Verse Reference on a single run-through but I have learned in the past that if I want a rigorous result at the end, that this is an important first step to become familiar with the entire language.
+- Previously I had read through the online book - https://github.com/glinesbdev/versus
+
 ## Creator Portal Epic Support Really Sucks
 - Tim Sweeney: everything you make has been fantastic
 - Tim Sweeney: making me completely discouraged and wanting to give up on the project is the WORST thing you have done!
