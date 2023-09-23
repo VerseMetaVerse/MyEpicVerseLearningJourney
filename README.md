@@ -5,6 +5,12 @@ It is hard to learn a new programming language in a rigorous in-depth manner and
 
 # Below this point, entries are in reverse chronological order
 
+### Welcome to not useful CompSci
+
+- The famous and not useful Linked List
+- https://dev.epicgames.com/documentation/en-us/uefn/linked-lists-in-verse
+- There is a reason that linked lists are not included in Verse so why post a retro doc on how to implement your very own untested buggy version of a data structure? Strangest item I have come across so far perhaps
+
 
 ### Launching Verse, a major new programming language inside of UEFN
 
