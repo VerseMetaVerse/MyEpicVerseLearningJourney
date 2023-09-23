@@ -5,6 +5,10 @@ It is hard to learn a new programming language in a rigorous in-depth manner and
 
 # Below this point, entries are in reverse chronological order
 
+### STM
+
+"Software transactional memory (STM) is a concurrency control mechanism analogous to database transactions for controlling access to shared memory in concurrent programming. Eventually, Verse will feature STM because it unlocks performance gains for large distributed simulations, among other motivations."
+
 ### Next steps after Lang Ref
 
 I will probably update the journal daily at this point. After I feel very verse with Verse, I will be making UEFN game snippets. I am most curious to attempt a maximum size full PBR Island terrain to walk around in with some Verse procedural generation...
