@@ -5,6 +5,11 @@ It is hard to learn a new programming language in a rigorous in-depth manner and
 
 # Below this point, entries are in reverse chronological order
 
+### Starting the Connurrency section
+
+- Sync, Race, Rush, Branch, Spawn, Task
+
+
 ### Welcome to not useful CompSci
 
 - The famous and not useful Linked List
