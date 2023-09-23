@@ -21,7 +21,9 @@ Seems like a mental burden that could build up in a large body of code. We shall
 ### 0 is not equal to 0.0
 "0 = 0.0 - This example will fail because 0 is of type int, while 0.0 is of type float, and int and float do not share a subtyping relationship."
 
-### Creator Portal Epic Support Really Sucks
+## Creator Portal Epic Support Really Sucks
+- Tim Sweeney: everything you make has been fantastic
+- Tim Sweeney: making me completely discouraged and wanting to give up on the project is the WORST thing you have done!
 I have hit a snag with my Creator Account where they want to know that I am actually well .. me. I don't travel or drive a car so I have lived my entire life without a Passport, Driver's License and Identity Card. I will attempt to contact Epic Support and see what sort of adventure I need to embark on to become "me" - I felt a horrible sense of disappointment when I was informed that I was not actually a real person and i'm not looking forward to how long that might take to fix but logically I am a long way from making a useful demo of an island that illustrates Verse usage anyways. Still it did make me pause and reconsider the entire idea. First attempt at a support request is a dismal failure. They just repeated back boilerplate text without bothering to read what I said!
 
 ### Useful reference?
