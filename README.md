@@ -19,6 +19,7 @@ I will probably update the journal daily at this point. After I feel very verse 
 - Tuple, Option, Range, Array, Map
 - Option is hurting my head
 - Map is standard fare but weak_map needs a better explanation on why it exists and what to use it for
+- Tuples seem to work against the idea of well structured programs and they can SPLAT! Even though kind of stupid, I will probably like them
 
 ### Starting the Concurrency section
 
