@@ -9,6 +9,11 @@ It is hard to learn a new programming language in a rigorous in-depth manner and
 
 I will probably update the journal daily at this point. After I feel very verse with Verse, I will be making UEFN game snippets. I am most curious to attempt a maximum size full PBR Island terrain to walk around in with some Verse procedural generation...
 
+### Composite Types
+
+- Class, Enum, Struct, Subclass, Interface, Constructor
+  
+
 ### Container Types
 
 - Tuple, Option, Range, Array, Map
