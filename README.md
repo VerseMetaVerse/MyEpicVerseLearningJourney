@@ -15,6 +15,7 @@ It is hard to learn a new programming language in a rigorous in-depth manner and
 ### Launching Verse, a major new programming language inside of UEFN
 
 At first it seemed awkward. But at least the usual PRINT ( "HELLO WORLD") could be far more entertaining with an NPC that dances around saying Hello World!
+- and https://dev.epicgames.com/documentation/en-us/uefn/debug-draw-in-verse
 
 ### Rollback of every if statement
 
