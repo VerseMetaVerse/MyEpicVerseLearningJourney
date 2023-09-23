@@ -9,6 +9,7 @@ It is hard to learn a new programming language in a rigorous in-depth manner and
 
 - This is rather unique for a potential mainstream language
 - Sync, Race, Rush, Branch, Spawn, Task
+- "race is one of the most useful and powerful expressions in the Verse arsenal. It is key to stopping other arbitrarily complex async code in a structured fashion — a form of early exit. It does this in a very clean way by keeping whatever tests are needed to determine when to stop separated from the code that is to be stopped.... Without race, you would normally need to sprinkle tests, such as polling all throughout your complex behavior. With race, you only need to add all stop conditions as sibling subexpressions to the complex behavior."
 
 
 ### Welcome to not useful CompSci
