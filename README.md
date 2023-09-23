@@ -5,6 +5,10 @@ It is hard to learn a new programming language in a rigorous in-depth manner and
 
 # Below this point, entries are in reverse chronological order
 
+### Next up - Working with Types
+
+- https://dev.epicgames.com/documentation/en-us/uefn/working-with-verse-types-in-verse
+
 ### STM
 
 "Software transactional memory (STM) is a concurrency control mechanism analogous to database transactions for controlling access to shared memory in concurrent programming. Eventually, Verse will feature STM because it unlocks performance gains for large distributed simulations, among other motivations."
@@ -12,10 +16,12 @@ It is hard to learn a new programming language in a rigorous in-depth manner and
 ### Next steps after Lang Ref
 
 I will probably update the journal daily at this point. After I feel very verse with Verse, I will be making UEFN game snippets. I am most curious to attempt a maximum size full PBR Island terrain to walk around in with some Verse procedural generation...
+- https://dev.epicgames.com/documentation/en-us/uefn/environments-and-landscapes-in-unreal-editor-for-fortnite
 
 ### Composite Types
 
 - Class, Enum, Struct, Subclass, Interface, Constructor
+- https://dev.epicgames.com/documentation/en-us/uefn/composite-types-in-verse
   
 
 ### Container Types
@@ -24,6 +30,7 @@ I will probably update the journal daily at this point. After I feel very verse 
 - Option is hurting my head
 - Map is standard fare but weak_map needs a better explanation on why it exists and what to use it for
 - Tuples seem to work against the idea of well structured programs and they can SPLAT! Even though kind of stupid, I will probably like them
+- https://dev.epicgames.com/documentation/en-us/uefn/container-types-in-verse
 
 ### Starting the Concurrency section
 
@@ -31,6 +38,7 @@ I will probably update the journal daily at this point. After I feel very verse 
 - Sync, Race, Rush, Branch, Spawn, Task
 - "race is one of the most useful and powerful expressions in the Verse arsenal. It is key to stopping other arbitrarily complex async code in a structured fashion — a form of early exit. It does this in a very clean way by keeping whatever tests are needed to determine when to stop separated from the code that is to be stopped.... Without race, you would normally need to sprinkle tests, such as polling all throughout your complex behavior. With race, you only need to add all stop conditions as sibling subexpressions to the complex behavior."
 - "spawn expression should be treated like an emergency escape hatch, while branch should be used in place of spawn whenever possible."
+- https://dev.epicgames.com/documentation/en-us/uefn/concurrency-in-verse
 
 
 ### Welcome to not useful CompSci
