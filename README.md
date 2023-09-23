@@ -6,6 +6,13 @@ It is hard to learn a new programming language in a rigorous in-depth manner and
 # Below this point, entries are in reverse chronological order
 
 
+### Launching Verse, a major new programming language inside of UEFN
+
+At first it seemed awkward. But at least the usual PRINT ( "HELLO WORLD") could be far more entertaining with an NPC that dances around saying Hello World!
+
+### Rollback of every if statement
+
+Seems like a mental burden that could build up in a large body of code. We shall see...
 
 ### not not
 "You can use not not expression as a way to check if an expression will succeed but make it so the expression never happens."
