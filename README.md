@@ -5,8 +5,9 @@ It is hard to learn a new programming language in a rigorous in-depth manner and
 
 # Below this point, entries are in reverse chronological order
 
-### Starting the Connurrency section
+### Starting the Concurrency section
 
+- This is rather unique for a potential mainstream language
 - Sync, Race, Rush, Branch, Spawn, Task
 
 
