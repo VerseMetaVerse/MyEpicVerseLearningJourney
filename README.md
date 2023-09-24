@@ -92,15 +92,26 @@ At first it seemed awkward. But at least the usual PRINT ( "HELLO WORLD") could 
 
 ### Next up - Working with Types
 
+- and here I am
 - https://dev.epicgames.com/documentation/en-us/uefn/working-with-verse-types-in-verse
+
+### Modules and Paths
+
+- Last section in the Verse Language Reference
 
 ### STM
 
 "Software transactional memory (STM) is a concurrency control mechanism analogous to database transactions for controlling access to shared memory in concurrent programming. Eventually, Verse will feature STM because it unlocks performance gains for large distributed simulations, among other motivations."
 
+### Verse API Reference
 
+The THREE:
+
+- Verse
+- Unreal
+- Fortnite
  
-### Next steps after Lang Ref
+### Next steps after Verse Language Reference and Verse API Reference
 
 I will probably update the journal daily at this point. After I feel very verse with Verse, I will be making UEFN game snippets. I am most curious to attempt a maximum size full PBR Island terrain to walk around in with some Verse procedural generation...
 - https://dev.epicgames.com/documentation/en-us/uefn/environments-and-landscapes-in-unreal-editor-for-fortnite
