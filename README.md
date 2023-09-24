@@ -105,6 +105,7 @@ At first it seemed awkward. But at least the usual PRINT ( "HELLO WORLD") could 
 ### Modules and Paths
 
 - Last section in the Verse Language Reference
+- https://dev.epicgames.com/documentation/en-us/uefn/modules-and-paths-in-verse
 
 ### Simulation and Simulation Update
 
@@ -118,11 +119,13 @@ At first it seemed awkward. But at least the usual PRINT ( "HELLO WORLD") could 
 
 ### Verse API Reference
 
+- https://dev.epicgames.com/documentation/en-us/uefn/verse-api
+
 The THREE:
 
-- Verse
-- Unreal
-- Fortnite
+- [Verse](https://dev.epicgames.com/documentation/en-us/uefn/verse-api/versedotorg)
+- [Unreal](https://dev.epicgames.com/documentation/en-us/uefn/verse-api/unrealenginedotcom)
+- [Fortnite](https://dev.epicgames.com/documentation/en-us/uefn/verse-api/fortnitedotcom)
  
 ### Next steps after Verse Language Reference and Verse API Reference
 
