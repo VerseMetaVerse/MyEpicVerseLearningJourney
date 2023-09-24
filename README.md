@@ -111,10 +111,13 @@ Map(F(:t) : u, X : []t) : []u =
 - The first section that I am considering "study first run complete" without much certainty but I can't take any more of this one right now
 - https://dev.epicgames.com/documentation/en-us/uefn/working-with-verse-types-in-verse
 
-### NEXT UP: Modules and Paths
+### Modules and Paths
 
-- and here I am
+
 - Last section in the Verse Language Reference
+- That's it! My first run thru of the Verse Language Reference is done!
+- All directories and sub directories in your Verse project are automatically Modules that are imported with a Using statement
+- A bit Deus Ex Machina there...
 - https://dev.epicgames.com/documentation/en-us/uefn/modules-and-paths-in-verse
 
 ### Simulation and Simulation Update
@@ -129,6 +132,8 @@ Map(F(:t) : u, X : []t) : []u =
 
 ### Verse API Reference
 
+- and here I am
+- about to examine the API
 - https://dev.epicgames.com/documentation/en-us/uefn/verse-api
 
 The THREE:
