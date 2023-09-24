@@ -3,6 +3,8 @@ My personal experience journal learning Verse seems unlikely to be of interest, 
 
 It is hard to learn a new programming language in a rigorous in-depth manner and keeping this journal might help in those many moments where my eyes glaze over and watching grass grow is more interesting.
 
+First conclusion after almost done reading the Verse Language Reference - This is NOT a "scripting" language. It is a full featured maximalist big tent aim for the stars fully compiled full programming language.
+
 ## Below this point, entries are in chronological order
 (Previously reverse chron but that proved confusing for people)
 
