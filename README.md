@@ -84,6 +84,7 @@ At first it seemed awkward. But at least the usual PRINT ( "HELLO WORLD") could 
 - Class, Enum, Struct, Subclass, Interface, Constructor
 - Class *Unique* is obscure, the rest of Class would not seem surprising to a C# programmer?
 - Multiple Inheritance is simulated via Interfaces just like C#
+- Subclass, Interface and Constructor are all part of the Class system and nothing stands out as odd there
 - Struct is just a struct - refreshing that
 - Enum seems more like a primitive type and just doesn't seem to belong in this category
 - https://dev.epicgames.com/documentation/en-us/uefn/composite-types-in-verse
