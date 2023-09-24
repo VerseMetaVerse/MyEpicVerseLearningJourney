@@ -144,7 +144,7 @@ The THREE:
 - [Verse](https://dev.epicgames.com/documentation/en-us/uefn/verse-api/versedotorg)
     - Events, concurrency, basic library such as math, and Session runtime environment as Simulation Module
 - [Unreal](https://dev.epicgames.com/documentation/en-us/uefn/verse-api/unrealenginedotcom)
-    - Spacial Math, Debugging draws and Logging
+    - Spatial Math, Debugging draws and Logging
 - [Fortnite](https://dev.epicgames.com/documentation/en-us/uefn/verse-api/fortnitedotcom)
     - Devices is huge, Characters, AI, Teams, UI, Vehicles, Playspaces and Game
  
