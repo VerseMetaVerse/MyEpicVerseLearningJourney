@@ -92,12 +92,14 @@ At first it seemed awkward. But at least the usual PRINT ( "HELLO WORLD") could 
 - https://dev.epicgames.com/documentation/en-us/uefn/composite-types-in-verse
 
 
-### Next up - Working with Types
+### Working with Verse Types
 
 - and here I am
 - Finished studying "Type Casting and Conversion" - https://dev.epicgames.com/documentation/en-us/uefn/type-casting-and-conversion-in-verse
 - It refers to [Finding Actors with a Gameplay Tag](https://dev.epicgames.com/documentation/en-us/uefn/gameplay-tags-in-verse#findingactorswithagameplaytag) which is common in the Language Reference where everything feels very incomplete and there as a ton of unique useful information in the [Verse Glosssary](https://dev.epicgames.com/documentation/en-us/uefn/verse-glossary#simulationupdate) as well
-- Next up - Type Aliasing
+- Next up - [Type Aliasing](https://dev.epicgames.com/documentation/en-us/uefn/type-aliasing-in-verse)
+- [Parametric Types](https://dev.epicgames.com/documentation/en-us/uefn/parametric-types-in-verse)
+- [Type Macro](https://dev.epicgames.com/documentation/en-us/uefn/type-macro-in-verse)
 - https://dev.epicgames.com/documentation/en-us/uefn/working-with-verse-types-in-verse
 
 ### Modules and Paths
