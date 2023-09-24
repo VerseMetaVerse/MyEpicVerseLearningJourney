@@ -95,11 +95,20 @@ At first it seemed awkward. But at least the usual PRINT ( "HELLO WORLD") could 
 ### Next up - Working with Types
 
 - and here I am
+- Finished studying "Type Casting and Conversion" - https://dev.epicgames.com/documentation/en-us/uefn/type-casting-and-conversion-in-verse
+- It refers to [Finding Actors with a Gameplay Tag](https://dev.epicgames.com/documentation/en-us/uefn/gameplay-tags-in-verse#findingactorswithagameplaytag) which is common in the Language Reference where everything feels very incomplete and there as a ton of unique useful information in the [Verse Glosssary](https://dev.epicgames.com/documentation/en-us/uefn/verse-glossary#simulationupdate) as well
+- Next up - Type Aliasing
 - https://dev.epicgames.com/documentation/en-us/uefn/working-with-verse-types-in-verse
 
 ### Modules and Paths
 
 - Last section in the Verse Language Reference
+
+### Simulation and Simulation Update
+
+- simulation: A simulation is the representation of the behavior or characteristics of one system through the use of another system. In Verse, this would be a computer program that runs over time. This term is broader than the term game, which is one type of simulation. In addition to games, simulations include such things as interactive experiences, art, medical visualization, architectural visualization, AI, driving/flying/military simulators, and so on. Simulations can be used on different mediums, such as virtual reality (VR) and augmented reality (AR).
+- simulation update: A recurring round, step or increment of logic, behavior and other calculations for a simulation. It is often shortened to update or used synonymously with tick or frame. A simulation update generally has an elapsed time that can be constant or varied. This is often referred to as delta time, which may or may not coincide with the actual passage of time. For example, a simulation update can be faster, the same as, or slower than real time.
+- A simulation update often tends to be in 1:1 step with rendering a frame — this is the default for Verse. However, a simulation update may be less or more frequent than a frame, such as when an online game client goes out of sync with the server or the physics systems while doing several iterations of the changes of a simulated object. It is also possible that a simulation would not be visually rendered at all.
 
 ### STM
 
