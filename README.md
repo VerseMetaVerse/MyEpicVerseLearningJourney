@@ -132,16 +132,22 @@ Map(F(:t) : u, X : []t) : []u =
 
 ### Verse API Reference
 
-- and here I am
-- about to examine the API
+
+- Survey of the API is done
+- It is a giant API into a giant support library
 - https://dev.epicgames.com/documentation/en-us/uefn/verse-api
 
 The THREE:
 
 - [Verse](https://dev.epicgames.com/documentation/en-us/uefn/verse-api/versedotorg)
+    - Events, concurrency, basic library such as math, and Session runtime environment as Simulation Module
 - [Unreal](https://dev.epicgames.com/documentation/en-us/uefn/verse-api/unrealenginedotcom)
+    - Spacial Math, Debugging draws and Logging
 - [Fortnite](https://dev.epicgames.com/documentation/en-us/uefn/verse-api/fortnitedotcom)
+    - Devices is huge, Characters, AI, Teams, UI, Vehicles, Playspaces and Game
  
+- and here I am
+
 ### Next steps after Verse Language Reference and Verse API Reference
 
 I will probably update the journal daily at this point. After I feel very verse with Verse, I will be making UEFN game snippets. I am most curious to attempt a maximum size full PBR Island terrain to walk around in with some Verse procedural generation...
