@@ -105,6 +105,7 @@ Map(F(:t) : u, X : []t) : []u =
     for (Y : X):
         F(Y)
 ```
+- Covariance and Contravariance seems to make sense at first and then veers off into alien abduction zone...
 - https://dev.epicgames.com/documentation/en-us/uefn/working-with-verse-types-in-verse
 
 ### Modules and Paths
