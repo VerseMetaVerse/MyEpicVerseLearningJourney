@@ -3,10 +3,10 @@ My personal experience journal learning Verse could be of interest, it contains 
 
 It is hard to learn a new programming language in a rigorous in-depth manner and keeping this journal might help in those many moments where my eyes glaze over and watching grass grow is more interesting.
 
-##First conclusion:
+## First conclusion:
 - after reading the Verse Language Reference - This is NOT a "scripting" language. It is a full featured maximalist big tent aim for the stars fully compiled full programming language.
 
-##Second Conclusion: 
+## Second Conclusion: 
 - Learning stuff is difficult enough so why does Epic have to screw up my enthusiasm by making a mess out of my Creator Portal application?
 
 ## Below this point, entries are in chronological order
