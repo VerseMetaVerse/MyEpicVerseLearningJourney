@@ -99,6 +99,12 @@ At first it seemed awkward. But at least the usual PRINT ( "HELLO WORLD") could 
 - It refers to [Finding Actors with a Gameplay Tag](https://dev.epicgames.com/documentation/en-us/uefn/gameplay-tags-in-verse#findingactorswithagameplaytag) which is common in the Language Reference where everything feels very incomplete and there as a ton of unique useful information in the [Verse Glosssary](https://dev.epicgames.com/documentation/en-us/uefn/verse-glossary#simulationupdate) as well
 - [Type Aliasing](https://dev.epicgames.com/documentation/en-us/uefn/type-aliasing-in-verse) and [Type Macro](https://dev.epicgames.com/documentation/en-us/uefn/type-macro-in-verse) work together and there is a special identifier which is just a single underscore "_" which means "name_that_is_never_used"
 - Next up: [Parametric Types](https://dev.epicgames.com/documentation/en-us/uefn/parametric-types-in-verse) and then I can escape this horrible watching grass grow section
+- Parametric Types will take a few run-throughs over time:
+```
+Map(F(:t) : u, X : []t) : []u =
+    for (Y : X):
+        F(Y)
+```
 - https://dev.epicgames.com/documentation/en-us/uefn/working-with-verse-types-in-verse
 
 ### Modules and Paths
