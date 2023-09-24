@@ -148,12 +148,15 @@ The THREE:
 - [Fortnite](https://dev.epicgames.com/documentation/en-us/uefn/verse-api/fortnitedotcom)
     - Devices is huge, Characters, AI, Teams, UI, Vehicles, Playspaces and Game
  
-- and here I am
+
 
 ### Next steps after Verse Language Reference and Verse API Reference
 
-I will probably update the journal daily at this point. After I feel very verse with Verse, I will be making UEFN game snippets. I am most curious to attempt a maximum size full PBR Island terrain to walk around in with some Verse procedural generation...
-- https://dev.epicgames.com/documentation/en-us/uefn/environments-and-landscapes-in-unreal-editor-for-fortnite
+- and here I am
+- Next up: Run various UEFN demos and samples and figure out how to construct Verse code within that singular runtime framework.
+- (After I feel very verse with Verse, I will be making UEFN game snippets.) That won't work. The only way to feel verse with Verse is to start running and editing demos withing the UEFN environment. There is no stand alone compiler. Rigorous study will need to be very iterative...
+- I am most curious to attempt a maximum size full PBR Island terrain to walk around in with some Verse procedural generation...
+    - https://dev.epicgames.com/documentation/en-us/uefn/environments-and-landscapes-in-unreal-editor-for-fortnite
 
 
 
