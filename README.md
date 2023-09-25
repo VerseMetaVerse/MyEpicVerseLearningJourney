@@ -29,6 +29,8 @@ I assembled a reference page so I can keep track of Verse info that I come acros
 
 
 ## Creator Portal Epic Support Really Sucks
+
+- Every time I try to submit the application again, my Gmail SPAM folder gets "BACGROUND CHECK" SPAM so something is leaking the Epic check - NOT GOOD!
 - Tim Sweeney: everything you make has been fantastic
 - Tim Sweeney: making me completely discouraged and wanting to give up on the project is the WORST thing you have done!
 - I have hit a snag with my Creator Account where they want to know that I am actually well .. me. I don't travel or drive a car so I have lived my entire life without a Passport, Driver's License and Identity Card. I will attempt to contact Epic Support and see what sort of adventure I need to embark on to become "me"
