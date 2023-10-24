@@ -9,6 +9,14 @@ It is hard to learn a new programming language in a rigorous in-depth manner and
 ## Second Conclusion: 
 - Learning stuff is difficult enough so why does Epic have to screw up my enthusiasm by making a mess out of my Creator Portal application?
 
+## Note: 
+
+- I took perhaps an unreasonable amount of time away from basic Verse learning to consider the "deployment fabric/infrastructure" of a Verse based Metaverse application and the other repos that will fill out in time with info and code have been created:
+- https://github.com/VerseMetaVerse/AIMetaOps
+- https://github.com/VerseMetaVerse/MetaVerse
+- https://github.com/VerseMetaVerse/DigitalTwin
+- and of course: https://github.com/VerseMetaVerse/VerseInfo
+
 ## Below this point, entries are in chronological order
 (Previously reverse chron but that proved confusing for people)
 
