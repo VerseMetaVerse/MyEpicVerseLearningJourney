@@ -1,4 +1,7 @@
 # MyCrazyVerseLearningJourney
+
+No update since Oct 23 is horrible but due to personal reasons. I will resume this soon.
+
 My personal experience journal learning Verse could be of interest, it contains a lot more useful references than I thought it would at first
 
 It is hard to learn a new programming language in a rigorous in-depth manner and keeping this journal might help in those many moments where my eyes glaze over and watching grass grow is more interesting.
