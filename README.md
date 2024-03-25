@@ -1,6 +1,6 @@
-# MyCrazyVerseLearningJourney
+# MyEpicVerseLearningJourney
 
-No update since Oct 23 is horrible but due to personal reasons. I will resume this soon.
+No update since Oct 23 is horrible but due to personal reasons. I will resume this soon. And taking so long, it has gone from crazy to Epic!
 
 My personal experience journal learning Verse could be of interest, it contains a lot more useful references than I thought it would at first
 
